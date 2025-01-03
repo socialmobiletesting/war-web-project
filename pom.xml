@@ -11,7 +11,7 @@
   <name>WAR Web Project</name>
   <description>A very simple Maven-enabled WAR web project</description>
   
-  <dependencies>
+  #<dependencies>
     <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
